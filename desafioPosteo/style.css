@@ -1,0 +1,23 @@
+#content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5%;
+  align-items: center;
+}
+
+
+
+#sendBtn {
+  align-self: flex-end;
+  margin: 2% 0% 0% 224%;
+}
+
+#printPost {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5%;
+}
+
+.btn-danger {}
